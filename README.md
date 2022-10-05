@@ -1,5 +1,7 @@
 # Obstetrics and Gynaecology
 
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/OB-GYN?logo=github&label=Download)](https://github.com/MedPocket/OB-GYN/archive/refs/heads/main.zip)
+
 Obstetrics and gynaecology (British English) or obstetrics and gynecology (American English) is the medical specialty that encompasses the two subspecialties of obstetrics (covering pregnancy, childbirth, and the postpartum period) and gynecology (covering the health of the female reproductive system – vagina, uterus, ovaries, and breasts).
 
 The document repository is collected by MedPocket about OB-GYN.
